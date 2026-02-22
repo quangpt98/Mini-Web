@@ -75,7 +75,7 @@ header{
     
 }
 #kontakt-pic {
-    background-image:url(Pic/doraemon.gif);
+    background-image:url(./Pic/doraemon.gif);
     height: 100%;
     background-size: contain;
     background-repeat: no-repeat ;
@@ -83,7 +83,7 @@ header{
     
 }
 #filament-pic {
-    background-image: url(Pic/filamentgif.gif);
+    background-image: url(./Pic/filamentgif.gif);
     height: 100%;
     background-size: contain;
     background-repeat: no-repeat ;
