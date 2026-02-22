@@ -69,13 +69,13 @@ header{
     text-align: center;
 }
 #start-pic {
-    background-image: url(/Pic/P2SC.jpg);
+    background-image: url(Pic/P2SC.jpg);
     height: 200vh;
     background-size: cover;
     
 }
 #kontakt-pic {
-    background-image:url(/Pic/doraemon.gif);
+    background-image:url(Pic/doraemon.gif);
     height: 100%;
     background-size: contain;
     background-repeat: no-repeat ;
@@ -83,7 +83,7 @@ header{
     
 }
 #filament-pic {
-    background-image: url(/Pic/filamentgif.gif);
+    background-image: url(Pic/filamentgif.gif);
     height: 100%;
     background-size: contain;
     background-repeat: no-repeat ;
